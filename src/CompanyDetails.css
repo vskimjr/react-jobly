@@ -1,0 +1,23 @@
+.CompanyDetails{
+  background-color: tomato;
+  width: 30%;
+  height: 30%;
+  text-align: center;
+  display:block;
+  justify-content: center;
+  margin-left: 30%;
+  border-radius: 20px;
+  align-items: center;
+
+
+}
+
+.CompanyDetailsName{
+  color: white;
+  text-shadow: rgb(52, 48, 47) 2px 2px 2px
+
+}
+
+.CompanyDetails img {
+  width: 15%;
+}

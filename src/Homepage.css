@@ -1,0 +1,20 @@
+
+
+.Homepage{
+  margin-top: 20%;
+  text-align: center;
+  display: block;
+  background-color: gray
+}
+
+.Homepage > h1{
+  color: white;
+  font-size: 3em;
+  text-shadow: rgb(52, 48, 47) 2px 2px 2px
+}
+
+.Homepage > h3{
+  color: white;
+  font-size: 1.75;
+  text-shadow: rgb(52, 48, 47) 0.5px 0.5px 0.5px
+}

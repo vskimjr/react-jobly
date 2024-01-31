@@ -1,0 +1,9 @@
+.JobList{
+  background-color: gray;
+  width: 30%;
+  height: 30%;
+  text-align: center;
+  display:block;
+  justify-content: center;
+  margin-left: 30%;
+}

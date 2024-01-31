@@ -1,0 +1,8 @@
+.JobCard{
+  background-color: lightslategrey;
+  text-align: center;
+  border-radius: 20px;
+  color: white;
+  padding-top:5px;
+  margin-bottom: 10px;
+}

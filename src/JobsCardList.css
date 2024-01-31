@@ -1,0 +1,19 @@
+.JobsCardList{
+  text-align: center;
+}
+
+
+.JobsCardList li {
+  display:block;
+  text-align: center;
+}
+.JobsCardList ul {
+  padding:0px;
+}
+
+
+.JobsCardListMap{
+  display: block;
+  justify-content: center;
+  text-align: center;
+}

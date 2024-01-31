@@ -1,0 +1,49 @@
+.CompanyList{
+  background-color: gray;
+  width: 30%;
+  height: 30%;
+  text-align: center;
+  display:block;
+  justify-content: center;
+  margin-left: 30%;
+}
+
+.companyLink{
+  background-color: tomato;
+  text-align: center;
+  border-radius: 20px;
+}
+
+
+.companyLink a{
+  color: white;
+  text-decoration: none;
+}
+
+.SearchForm{
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+  height: 50px;
+  width: 500px;
+  border-style: none;
+  padding: 10px;
+  font-size: 18px;
+  letter-spacing: 2px;
+  outline: none;
+  border-radius: 10px;
+  transition: all .5s ease-in-out;
+  padding-right: 40px;
+  color:#fff;
+  margin-left: 35%;
+}
+
+.CompanyList img {
+  width: 15%;
+}
+
+
+.CompanyListDescription {
+  font-size: 10px;
+  text-decoration: none;
+}
